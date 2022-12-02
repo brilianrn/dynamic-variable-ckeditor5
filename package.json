@@ -59,8 +59,7 @@
     "@ckeditor/ckeditor5-utils": "^35.3.0"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/brilianrn/dynamic-variable-ckeditor5.git"
+    "url": "git:https://github.com/brilianrn/dynamic-variable-ckeditor5.git"
   },
   "keywords": [
     "dynamic-variable-ckeditor5"
